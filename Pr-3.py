@@ -1,7 +1,7 @@
 
-k=int(input())  # taking input for k
-s=map(int,input().split())  # input for room list
-s=sorted(s)  # sorting the list
+ k=int(input())  # taking input for k
+ s=map(int,input().split())  # input for room list
+ s=sorted(s)  # sorting the list
 
 for i in range(len(s)):
     if(i!=len(s)-1): 
