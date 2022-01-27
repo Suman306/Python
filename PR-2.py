@@ -1,6 +1,6 @@
 
                  #  Dictionary
-# a. Write a Python script to check whether a given key already exists in a dictionary.
+      # a. Write a Python script to check whether a given key already exists in a dictionary.
 
 di={1:10,2:20,3:30,4:40,5:50} #creating dictionary
 def is_key(x): # function to check key is present or not
