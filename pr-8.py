@@ -1,6 +1,7 @@
 
 # Stack implementation in python
 
+# Author:-Patel Sumankumar ID:-20CE105
 
 # Creating a stack
 def create_stack():
